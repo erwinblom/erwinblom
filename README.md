@@ -16,3 +16,9 @@ Nu ligt mijn focus op AI, media, muziek en praktische producten: niet als hype, 
 - media, publicatie en nieuwsbrieven
 - tools voor muzikanten en creatieve workflows
 - de vraag wat waardevol blijft als uitvoering steeds goedkoper wordt
+
+## Verder lezen
+
+- [Handpicked AI](https://fmthandpickedai.substack.com/) - nieuwsbrief over AI in de praktijk
+- [Vibecoders Unite](https://vibecodersunite.substack.com/) - voor wie simpel apps, tools en sites wil bouwen
+- [Handpicked](https://fmthandpicked.substack.com/) - over media en innovatie
