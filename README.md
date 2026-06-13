@@ -22,3 +22,9 @@ Nu ligt mijn focus op AI, media, muziek en praktische producten: niet als hype, 
 - [Handpicked AI](https://fmthandpickedai.substack.com/) - nieuwsbrief over AI in de praktijk
 - [Vibecoders Unite](https://vibecodersunite.substack.com/) - voor wie simpel apps, tools en sites wil bouwen
 - [Handpicked](https://fmthandpicked.substack.com/) - over media en innovatie
+
+## Waar ik nu aan bouw
+
+- *Handpicked AI*: schrijven, selecteren en duiden van AI-ontwikkelingen voor mensen die er praktisch beter van willen worden
+- *Wat Blijft*: een boekproject over wat waardevol blijft als AI uitvoering goedkoper maakt
+- tools en workflows voor makers, muzikanten en kleine teams die met minder gedoe meer voor elkaar willen krijgen
