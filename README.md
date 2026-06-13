@@ -1,8 +1,8 @@
 # Hi, ik ben Erwin Blom 👋
 
-Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
-
 Ik bouw praktische AI-tools, workflows en publicatie-omgevingen voor zelfstandigen, makers en kleine teams.
+
+Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 
 > Niet om meer tools te stapelen, maar om beter te denken, schrijven, kiezen en publiceren.
 
@@ -10,24 +10,29 @@ Ik bouw praktische AI-tools, workflows en publicatie-omgevingen voor zelfstandig
 | --- | --- |
 | 📚 Maker Manuals | [Website](https://maker-manuals.vercel.app) |
 | ✍️ Handpicked AI | [Nieuwsbrief](https://fmthandpickedai.substack.com) |
-| 🧠 Vibecoders Unite | [Vibecoders Unite](https://vibecodersunite.substack.com) |
-|---
+| 🧠 Mijn-OS | [Vibecoders Unite](https://vibecodersunite.substack.com) |
+| 📖 Wat Blijft | [Handpicked](https://fmthandpicked.substack.com) |
+
+---
 
 ## 🚀 Waar ik mee bezig ben
 
-- praktische AI-tools en workflows
-- systemen voor schrijven, research en publicatie
-- producten voor makers, ondernemers en kleine teams
+- AI praktisch bruikbaar maken voor gewone mensen en kleine teams
+- systemen bouwen voor schrijven, research en publicatie
+- tools maken voor makers, muzikanten en zelfstandigen
+- onderzoeken wat waarde houdt als uitvoering steeds goedkoper wordt
 
 ## 🧭 Nu in beeld
 
 ### 📚 Maker Manuals
 Levende boeken over bouwen, organiseren en onafhankelijk werken met AI.
 
-👉 [Maker Manuals](https://maker-manuals.vercel.app)
+👉 [maker-manuals.vercel.app](https://maker-manuals.vercel.app)
 
 ### ✍️ Handpicked AI
-Nieuwsbrief over AI in de praktijk.
+Nieuwsbrief over AI in de praktijk, voor mensen die scherper willen werken zonder te verdrinken in tools.
+
+👉 [fmthandpickedai.substack.com](https://fmthandpickedai.substack.com)
 
 ### 🛠️ AI Schrijfwerkbank
 Een eenvoudige schrijf- en eindredactie-omgeving om dezelfde opdracht naast meerdere modellen te leggen en verschillen zichtbaar te maken.
@@ -50,4 +55,4 @@ Daardoor worden oordeel, smaak, vertrouwen en richting waardevoller.
 
 ## 🪴 Voor wie dit is
 
-Voor zelfstandigen, makers en kleine teams die AI praktisch willen gebruiken zonder zichzelf kwijt te raken.
+Voor zelfstandigen, makers en kleine teams die AI willen gebruiken zonder zichzelf kwijt te raken.
