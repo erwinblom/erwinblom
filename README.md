@@ -1,38 +1,40 @@
 # Hi, ik ben Erwin Blom 👋
 
-Ik bouw praktische AI-tools, workflows en publicatie-omgevingen voor zelfstandigen, makers en kleine teams.
+Ik help zelfstandigen, makers en kleine teams AI praktisch te gebruiken zonder zichzelf kwijt te raken.
+
+Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken, schrijven, kiezen en publiceren.
 
 Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 
-> Niet om meer tools te stapelen, maar om beter te denken, schrijven, kiezen en publiceren.
+> Niet meer toolstress, wel meer helderheid en bruikbare output.
 
 | Nu | Links |
 | --- | --- |
 | 📚 Maker Manuals | [Website](https://maker-manuals.vercel.app) |
 | ✍️ Handpicked AI | [Nieuwsbrief](https://fmthandpickedai.substack.com) |
-| 🧠 Vibecoders Unite| [Nieuwsbrief](https://vibecodersunite.substack.com) |
+| 🧠 Vibecoders Unite | [Nieuwsbrief](https://vibecodersunite.substack.com) |
 ---
 
 ## 🚀 Waar ik mee bezig ben
 
 - AI praktisch bruikbaar maken voor gewone mensen en kleine teams
-- systemen bouwen voor schrijven, research en publicatie
+- betere manieren bouwen om te schrijven, onderzoeken en publiceren
 - tools maken voor makers, muzikanten en zelfstandigen
 - onderzoeken wat waarde houdt als uitvoering steeds goedkoper wordt
 
 ## 🧭 Nu in beeld
 
 ### 📚 Maker Manuals
-Levende boeken over bouwen, organiseren en onafhankelijk werken met AI.
+Korte, levende boeken over bouwen, organiseren en onafhankelijk werken met AI.
 
 ### ✍️ Handpicked AI
 Nieuwsbrief over AI in de praktijk, voor mensen die scherper willen werken zonder te verdrinken in tools.
 
 ### 🛠️ AI Schrijfwerkbank
-Een eenvoudige schrijf- en eindredactie-omgeving om dezelfde opdracht naast meerdere modellen te leggen en verschillen zichtbaar te maken.
+Een eenvoudige omgeving om schrijfwerk te verbeteren en verschillende AI-antwoorden naast elkaar te vergelijken.
 
 ### 🗂️ Mijn-OS
-Een lichte persoonlijke operating system-laag voor intake, context, uitvoering en terugschrijven.
+Een eenvoudige werklaag voor intake, context en uitvoering.
 
 ### 📖 Wat Blijft
 Een boekproject over wat waarde houdt als AI uitvoering steeds goedkoper maakt.
