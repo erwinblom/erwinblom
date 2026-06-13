@@ -10,7 +10,7 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 | --- | --- |
 | 📚 Maker Manuals | [Website](https://maker-manuals.vercel.app) |
 | ✍️ Handpicked AI | [Nieuwsbrief](https://fmthandpickedai.substack.com) |
-| 🧠 Vibecoders Unite| [Website](https://vibecodersunite.substack.com) |
+| 🧠 Vibecoders Unite| [Nieuwsbrief](https://vibecodersunite.substack.com) |
 ---
 
 ## 🚀 Waar ik mee bezig ben
@@ -25,12 +25,8 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 ### 📚 Maker Manuals
 Levende boeken over bouwen, organiseren en onafhankelijk werken met AI.
 
-👉 [maker-manuals.vercel.app](https://maker-manuals.vercel.app)
-
 ### ✍️ Handpicked AI
 Nieuwsbrief over AI in de praktijk, voor mensen die scherper willen werken zonder te verdrinken in tools.
-
-👉 [fmthandpickedai.substack.com](https://fmthandpickedai.substack.com)
 
 ### 🛠️ AI Schrijfwerkbank
 Een eenvoudige schrijf- en eindredactie-omgeving om dezelfde opdracht naast meerdere modellen te leggen en verschillen zichtbaar te maken.
