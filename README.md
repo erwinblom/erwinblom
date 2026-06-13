@@ -1,39 +1,58 @@
-# Hoi, ik ben Erwin Blom
+# Hi, ik ben Erwin Blom 👋
 
-Ik ben journalist van oorsprong en werk inmiddels al decennia op het snijvlak van internet, media, innovatie en ondernemerschap.
+Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 
-Nu ligt mijn focus op AI, media, muziek en praktische producten: niet als hype, maar als gereedschap om zelfstandigen, makers en kleine teams sterker, scherper en vrijer te laten werken.
+Ik bouw praktische AI-tools, workflows en publicatie-omgevingen voor zelfstandigen, makers en kleine teams.
 
-## Waar ik aan werk
+> Niet om meer tools te stapelen, maar om beter te denken, schrijven, kiezen en publiceren.
 
-- praktische tools en workflows rond AI
-- schrijven over werk, waarde en wat menselijk belangrijk blijft
-- producten en systemen voor makers, muzikanten en kleine teams
+| Nu | Links |
+| --- | --- |
+| 📚 Maker Manuals | [Website](https://maker-manuals.vercel.app) |
+| ✍️ Handpicked AI | [Nieuwsbrief](https://fmthandpickedai.substack.com) |
+| 🧠 Mijn-OS | [Vibecoders Unite](https://vibecodersunite.substack.com) |
+| 📖 Wat Blijft | [Handpicked](https://fmthandpicked.substack.com) |
 
-## Thema's
+---
 
-- AI en persoonlijke operating systems
-- media, publicatie en nieuwsbrieven
-- tools voor muzikanten en creatieve workflows
-- de vraag wat waardevol blijft als uitvoering steeds goedkoper wordt
+## 🚀 Waar ik mee bezig ben
 
-## Verder lezen
+- praktische AI-tools en workflows
+- systemen voor schrijven, research en publicatie
+- producten voor makers, muzikanten en kleine teams
+- de vraag wat waarde houdt als AI uitvoering goedkoper maakt
 
-- [Handpicked AI](https://fmthandpickedai.substack.com/) - nieuwsbrief over AI in de praktijk
-- [Vibecoders Unite](https://vibecodersunite.substack.com/) - voor wie simpel apps, tools en sites wil bouwen
-- [Handpicked](https://fmthandpicked.substack.com/) - over media en innovatie
+## 🧭 Nu in beeld
 
-## Waar ik nu aan bouw
+### 📚 Maker Manuals
+Levende boeken over bouwen, organiseren en onafhankelijk werken met AI.
 
-- *Handpicked AI*: schrijven, selecteren en duiden van AI-ontwikkelingen voor mensen die er praktisch beter van willen worden
-- *Wat Blijft*: een boekproject over wat waardevol blijft als AI uitvoering goedkoper maakt
-- tools en workflows voor makers, muzikanten en kleine teams die met minder gedoe meer voor elkaar willen krijgen
+👉 [maker-manuals.vercel.app](https://maker-manuals.vercel.app)
 
-## Nieuwe boeken en sites
+### ✍️ Handpicked AI
+Nieuwsbrief over AI in de praktijk.
 
-Vandaag bouwde ik aan de reeks [*Maker Manuals*](https://maker-manuals.vercel.app/): korte, levende boeken met een eigen site-laag.
+👉 [fmthandpickedai.substack.com](https://fmthandpickedai.substack.com)
 
-- [*Vibecoding*](https://maker-manuals.vercel.app/vibecoding/) - apps en tools bouwen zonder technische achtergrond
-- [*AI-OS*](https://maker-manuals.vercel.app/ai-os/) - technologie die onthoudt, meedenkt en voor je werkt
-- [*Het AI-bedrijf*](https://maker-manuals.vercel.app/het-ai-bedrijf/) - waarom kleine bedrijven dankzij AI slim en sterk kunnen zijn
-- [*AI-autonomie*](https://maker-manuals.vercel.app/ai-autonomie/) - onafhankelijk blijven in een wereld vol modellen, platforms en AI-tools
+### 🛠️ AI Schrijfwerkbank
+Een eenvoudige schrijf- en eindredactie-omgeving om dezelfde opdracht naast meerdere modellen te leggen en verschillen zichtbaar te maken.
+
+### 🗂️ Mijn-OS
+Een lichte persoonlijke operating system-laag voor intake, context, uitvoering en terugschrijven.
+
+### 📖 Wat Blijft
+Een boekproject over wat waarde houdt als AI uitvoering steeds goedkoper maakt.
+
+---
+
+## 💡 Onderliggende lijn
+
+AI maakt uitvoering goedkoop.
+
+Daardoor worden oordeel, smaak, vertrouwen en richting waardevoller.
+
+---
+
+## 🪴 Voor wie dit is
+
+Voor zelfstandigen, makers en kleine teams die AI praktisch willen gebruiken zonder zichzelf kwijt te raken.
