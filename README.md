@@ -10,9 +10,7 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 | --- | --- |
 | 📚 Maker Manuals | [Website](https://maker-manuals.vercel.app) |
 | ✍️ Handpicked AI | [Nieuwsbrief](https://fmthandpickedai.substack.com) |
-| 🧠 Mijn-OS | [Vibecoders Unite](https://vibecodersunite.substack.com) |
-| 📖 Wat Blijft | [Handpicked](https://fmthandpicked.substack.com) |
-
+| 🧠 Vibecoders Unite| [Website](https://vibecodersunite.substack.com) |
 ---
 
 ## 🚀 Waar ik mee bezig ben
