@@ -1,3 +1,5 @@
+![Erwin Blom banner](images/erwin-blom-banner.png)
+
 # Hi, ik ben Erwin Blom
 
 Ik help zelfstandigen, makers en kleine teams AI praktisch te gebruiken zonder zichzelf kwijt te raken.
