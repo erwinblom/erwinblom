@@ -28,3 +28,12 @@ Nu ligt mijn focus op AI, media, muziek en praktische producten: niet als hype, 
 - *Handpicked AI*: schrijven, selecteren en duiden van AI-ontwikkelingen voor mensen die er praktisch beter van willen worden
 - *Wat Blijft*: een boekproject over wat waardevol blijft als AI uitvoering goedkoper maakt
 - tools en workflows voor makers, muzikanten en kleine teams die met minder gedoe meer voor elkaar willen krijgen
+
+## Nieuwe boeken en sites
+
+Vandaag bouwde ik aan de reeks [*Maker Manuals*](https://maker-manuals.vercel.app/): korte, levende boeken met een eigen site-laag.
+
+- [*Vibecoding*](https://maker-manuals.vercel.app/vibecoding/) - apps en tools bouwen zonder technische achtergrond
+- [*AI-OS*](https://maker-manuals.vercel.app/ai-os/) - technologie die onthoudt, meedenkt en voor je werkt
+- [*Het AI-bedrijf*](https://maker-manuals.vercel.app/het-ai-bedrijf/) - waarom kleine bedrijven dankzij AI slim en sterk kunnen zijn
+- [*AI-autonomie*](https://maker-manuals.vercel.app/ai-autonomie/) - onafhankelijk blijven in een wereld vol modellen, platforms en AI-tools
