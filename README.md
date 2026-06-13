@@ -1,4 +1,4 @@
-# Hi, ik ben Erwin Blom 👋
+# Hi, ik ben Erwin Blom
 
 Ik help zelfstandigen, makers en kleine teams AI praktisch te gebruiken zonder zichzelf kwijt te raken.
 
@@ -25,29 +25,11 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 ## 🧭 Nu in beeld
 
 ### 📚 Maker Manuals
-Korte, levende boeken over bouwen, organiseren en onafhankelijk werken met AI.
+Ik werk aan handboeken die permanent in ontwikkeling zijn omdat de wereld continu verandert. Het zijn uitgaves die doorlopend worden aangescherpt en geactualiseerd. Over bouwen, organiseren en onafhankelijk werken met AI. Lees de meest actuele versie online of als pdf of ePUB. 
+[Meer info](https://maker-manuals.vercel.app)
 
-### ✍️ Handpicked AI
-Nieuwsbrief over AI in de praktijk, voor mensen die scherper willen werken zonder te verdrinken in tools.
-
-### 🛠️ AI Schrijfwerkbank
-Een eenvoudige omgeving om schrijfwerk te verbeteren en verschillende AI-antwoorden naast elkaar te vergelijken.
-
-### 🗂️ Mijn-OS
-Een eenvoudige werklaag voor intake, context en uitvoering.
-
-### 📖 Wat Blijft
-Een boekproject over wat waarde houdt als AI uitvoering steeds goedkoper maakt.
-
----
-
-## 💡 Onderliggende lijn
-
-AI maakt uitvoering goedkoop.
-
-Daardoor worden oordeel, smaak, vertrouwen en richting waardevoller.
-
----
+### ✍️ Nieuwsbrieven
+De Maker Manuals bouwen voort op de 3 nieuwsbrieven die ik schrijf. In [Handpicked](https://fmthandpicked.substack.com) focus ik me op de breedte in media, communicatie en innovatie. [Handpicked AI](https://fmthandpickedai.substack.com) is mijn wekelijkse update over AI-nieuws en ontwikkelingen. [Vibecoders Unite](https://vibecodersunite.substack.com) gaat over zelf apps, sites en tools bouwen zonder technische kennis.
 
 ## 🪴 Voor wie dit is
 
