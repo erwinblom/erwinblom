@@ -1,4 +1,4 @@
-![Erwin Blom banner](images/erwin-blom-banner.png)
+![Erwin Blom banner](images/erwin-blom-banner-no-person.png)
 
 # Hi, ik ben Erwin Blom
 
