@@ -17,10 +17,9 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 
 ## 🚀 Waar ik mee bezig ben
 
-- AI praktisch bruikbaar maken voor gewone mensen en kleine teams
+- AI praktisch bruikbaar maken voor zelfstandigen, makers en kleine teams
+- tools maken om werk te optimaliseren en nieuwe mogelijkheden te onderzoeken
 - betere manieren bouwen om te schrijven, onderzoeken en publiceren
-- tools maken voor makers, muzikanten en zelfstandigen
-- onderzoeken wat waarde houdt als uitvoering steeds goedkoper wordt
 
 ## 🧭 Nu in beeld
 
