@@ -10,11 +10,6 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 
 > Niet meer toolstress, wel meer helderheid en bruikbare output.
 
-| Nu | Links |
-| --- | --- |
-| 📚 Maker Manuals | [Website](https://maker-manuals.vercel.app) |
-| ✍️ Handpicked AI | [Nieuwsbrief](https://fmthandpickedai.substack.com) |
-| 🧠 Vibecoders Unite | [Nieuwsbrief](https://vibecodersunite.substack.com) |
 ---
 
 ## 🚀 Waar ik mee bezig ben
@@ -23,7 +18,7 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 - tools maken om werk te optimaliseren en nieuwe mogelijkheden te onderzoeken
 - betere manieren bouwen om te schrijven, onderzoeken en publiceren
 
-## 🧭 Nu in beeld
+## 🧭 Actueel
 
 ### 📚 Maker Manuals
 Ik werk aan handboeken die permanent in ontwikkeling zijn omdat de wereld continu verandert. Het zijn uitgaves die doorlopend worden aangescherpt en geactualiseerd. Over bouwen, organiseren en onafhankelijk werken met AI. Lees de meest actuele versie online of als pdf of ePUB. 
