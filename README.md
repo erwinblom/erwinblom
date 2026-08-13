@@ -1,6 +1,6 @@
 ![Erwin Blom banner](images/erwin-blom-banner-no-person.png)
 
-Onder de naam Fast Moving Targets help ik in wisselende samenstellingen zelfstandigen, makers en kleine teams AI praktisch te gebruiken zonder zichzelf kwijt te raken.
+Hallo, Erwin Blom hier. Onder de naam Fast Moving Targets help ik in wisselende samenstellingen zelfstandigen, makers en kleine teams AI praktisch te gebruiken zonder zichzelf kwijt te raken.
 
 Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken, schrijven, kiezen en publiceren.
 
