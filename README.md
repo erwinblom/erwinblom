@@ -24,10 +24,10 @@ Onder FMT bouw ik vier open-source Nederlandse AI-skills die elk één duidelijk
 
 ![De vier FMT-redactietools: Clichéverwijderaar, Factchecker, Structuurlezer en Tegenlezer](images/fmt-redactietools-kwartet.png)
 
-- [Clichéverwijderaar](https://github.com/erwinblom/de-clicheverwijderaar) schrapt clichés en opgeblazen taal zonder de schrijver weg te redigeren.
-- [Factchecker](https://github.com/erwinblom/de-factchecker) controleert dragende claims tegen actuele bronnen en maakt bewijsgrenzen zichtbaar.
-- [Structuurlezer](https://github.com/erwinblom/de-structuurlezer) vindt concrete problemen in hoofdlijn, volgorde en redenering.
-- [Tegenlezer](https://github.com/erwinblom/de-tegenlezer) signaleert waar lezers kunnen afhaken, zich ergeren of een claim niet geloven.
+- [Clichéverwijderaar](https://github.com/erwinblom/de-clicheverwijderaar) schrapt clichés en opgeblazen taal zonder de stijl van de schrijver weg te redigeren.
+- [Factchecker](https://github.com/erwinblom/de-factchecker) controleert claims tegen actuele bronnen.
+- [Structuurlezer](https://github.com/erwinblom/de-structuurlezer) vindt problemen in hoofdlijn, volgorde en redenering.
+- [Tegenlezer](https://github.com/erwinblom/de-tegenlezer) signaleert waar lezers kunnen afhaken, zich kunnen ergeren of mogelijk een claim niet geloven.
 
 ### 02 / MAKER MANUALS
 
