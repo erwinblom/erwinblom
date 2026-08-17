@@ -18,16 +18,22 @@ Journalist van oorsprong. Sinds 1994 actief in internet, media en innovatie.
 
 ## FMT / ACTUEEL
 
-### 01 / REDACTIETOOLS
+### 01 / OPEN-SOURCE AI-SKILLS
 
-Onder FMT bouw ik vier open-source Nederlandse AI-skills die elk één duidelijke taak rond teksten hebben:
+[Open-source AI Skills NL](https://github.com/erwinblom/open-ai-skills-nl) is een openbare verzameling Nederlandse AI-skills voor echt werk. De methode is gratis. De begeleiding maakt het verschil.
+
+**De Tekstploeg** helpt teksten onderzoeken en verbeteren met vier zelfstandige redactietools:
 
 ![De vier FMT-redactietools: Clichéverwijderaar, Factchecker, Structuurlezer en Tegenlezer](images/fmt-redactietools-kwartet.png)
 
-- [Clichéverwijderaar](https://github.com/erwinblom/de-clicheverwijderaar) schrapt clichés en opgeblazen taal zonder de stijl van de schrijver weg te redigeren.
-- [Factchecker](https://github.com/erwinblom/de-factchecker) controleert claims tegen actuele bronnen.
-- [Structuurlezer](https://github.com/erwinblom/de-structuurlezer) vindt problemen in hoofdlijn, volgorde en redenering.
-- [Tegenlezer](https://github.com/erwinblom/de-tegenlezer) signaleert waar lezers kunnen afhaken, zich kunnen ergeren of mogelijk een claim niet geloven.
+- [Clichéverwijderaar](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg/de-cliche-verwijderaar) schrapt clichés en opgeblazen taal zonder de stijl van de schrijver weg te redigeren.
+- [Factchecker](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg/de-factchecker) controleert claims tegen actuele bronnen.
+- [Structuurlezer](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg/de-structuurlezer) vindt problemen in hoofdlijn, volgorde en redenering.
+- [Tegenlezer](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg/de-tegenlezer) signaleert waar lezers kunnen afhaken, zich kunnen ergeren of mogelijk een claim niet geloven.
+
+**De Innovatieploeg** helpt organisaties van kans naar bewijs met vijf skills: Kansverkenner, Aannamejager, Klantverkenner, Eerste-versiebouwer en Bewijsweger.
+
+[Bekijk alle negen skills, handleidingen en voorbeelden](https://github.com/erwinblom/open-ai-skills-nl)
 
 ### 02 / MAKER MANUALS
 
