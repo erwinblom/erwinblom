@@ -8,20 +8,22 @@ Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken,
 
 | Project | Wat je ermee kunt |
 |---|---|
-| [Open-source AI Skills NL](https://github.com/erwinblom/open-ai-skills-nl) | Gebruik negen Nederlandstalige skills voor redactie en innovatie. |
+| [Open-source AI Skills NL](https://github.com/erwinblom/open-ai-skills-nl) | Gebruik veertien Nederlandstalige skills voor redactie en innovatie. |
 | [Link Bewaren](https://github.com/erwinblom/link-bewaren) | Bouw een persoonlijke bronnenbibliotheek met Chrome en Google Sheets. |
 | [AI-OS Starterkit](https://github.com/erwinblom/ai-os-starterkit) | Geef AI vaste context over jezelf, je werk of je team. |
 | [Maker Manuals](https://github.com/erwinblom/makermanuals) | Lees praktische handboeken over bouwen en werken met AI. |
 
 ## FMT / OPEN-SOURCE AI-SKILLS
 
-![De vier FMT-redactietools: Clichéverwijderaar, Factchecker, Structuurlezer en Tegenlezer](images/fmt-redactietools-kwartet.png)
-
-**De Tekstploeg** helpt teksten onderzoeken en verbeteren met vier zelfstandige redactietools: Clichéverwijderaar, Factchecker, Structuurlezer en Tegenlezer.
+**De Tekstploeg** bestaat uit negen skills voor het hele schrijfproces: Hoofdredacteur, Uitvrager, Onderzoeker, Schrijver, Cliché-verwijderaar, Factchecker, Schrijfwijzer, Structuurlezer en Tegenlezer.
 
 **De Innovatieploeg** helpt organisaties van kans naar bewijs met vijf skills: Kansverkenner, Aannamejager, Klantverkenner, Eerste-versiebouwer en Bewijsweger.
 
-[Bekijk alle negen skills, installatie-instructies en voorbeelden](https://github.com/erwinblom/open-ai-skills-nl)
+[Bekijk alle veertien skills, installatie-instructies en voorbeelden](https://github.com/erwinblom/open-ai-skills-nl)
+
+## FMT / IN ONTWIKKELING
+
+**Markdown Werkbank** is mijn browserwerkplek voor het lezen, zoeken en bewerken van lokale Markdown-bestanden, met een optionele AI-schrijfpartner. De code wordt voorlopig privé beheerd; er is nog geen openbare download.
 
 ## FMT / NIEUWSBRIEVEN
 
