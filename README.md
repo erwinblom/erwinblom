@@ -8,6 +8,7 @@ Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken,
 
 | Project | Wat je ermee kunt |
 |---|---|
+| [Markdown Werkbank](https://github.com/erwinblom/markdown-werkbank-offline) | Lees, doorzoek en bewerk lokale Markdown-bestanden, visueel of als brontekst. |
 | [Open-source AI Skills NL](https://github.com/erwinblom/open-ai-skills-nl) | Gebruik veertien Nederlandstalige skills voor redactie en innovatie. |
 | [Link Bewaren](https://github.com/erwinblom/link-bewaren) | Bouw een persoonlijke bronnenbibliotheek met Chrome en Google Sheets. |
 | [AI-OS Starterkit](https://github.com/erwinblom/ai-os-starterkit) | Geef AI vaste context over jezelf, je werk of je team. |
@@ -21,9 +22,13 @@ Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken,
 
 [Bekijk alle veertien skills, installatie-instructies en voorbeelden](https://github.com/erwinblom/open-ai-skills-nl)
 
-## FMT / IN ONTWIKKELING
+## FMT / MARKDOWN WERKBANK
 
-**Markdown Werkbank** is mijn browserwerkplek voor het lezen, zoeken en bewerken van lokale Markdown-bestanden, met een optionele AI-schrijfpartner. De code wordt voorlopig privé beheerd; er is nog geen openbare download.
+[Markdown Werkbank](https://github.com/erwinblom/markdown-werkbank-offline) is een openbare, lokale browserwerkplek voor het lezen, zoeken en bewerken van Markdown-bestanden. Je kiest tussen visueel bewerken en Markdown-brontekst. Zonder account, server of AI-koppeling.
+
+De Werkbank bouwt voort op de **Markdown Browser van [Joost Plattel](https://github.com/jplattel)**. Dank aan Joost voor de oorspronkelijke basis en zijn toestemming om deze doorontwikkeling te delen. Bekijk [zijn oorspronkelijke browser](https://files.jplattel.nl/2026/03/X0dnV6.html) en [zijn toelichting: A file is the app](https://jplattel.nl/post/2026-03-10-a-file-is-the-app/).
+
+[Download de Werkbank](https://github.com/erwinblom/markdown-werkbank-offline/releases/latest/download/markdown-werkbank-offline.zip) · [Broncode en handleiding](https://github.com/erwinblom/markdown-werkbank-offline)
 
 ## FMT / NIEUWSBRIEVEN
 
