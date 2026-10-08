@@ -4,31 +4,16 @@ Onder de naam **Fast Moving Targets** help ik zelfstandigen, makers en kleine te
 
 Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken, onderzoeken, schrijven, kiezen en publiceren.
 
-## FMT / BEGIN HIER
+## Vier producten
 
-| Project | Wat je ermee kunt |
-|---|---|
-| [Markdown Werkbank](https://github.com/erwinblom/markdown-werkbank-offline) | Lees, doorzoek en bewerk lokale Markdown-bestanden, visueel of als brontekst. |
-| [Open-source AI Skills NL](https://github.com/erwinblom/open-ai-skills-nl) | Gebruik veertien Nederlandstalige skills voor redactie en innovatie. |
-| [Link Bewaren](https://github.com/erwinblom/link-bewaren) | Bouw een persoonlijke bronnenbibliotheek met Chrome en Google Sheets. |
-| [AI-OS Starterkit](https://github.com/erwinblom/ai-os-starterkit) | Geef AI vaste context over jezelf, je werk of je team. |
-| [Maker Manuals](https://github.com/erwinblom/makermanuals) | Lees praktische handboeken over bouwen en werken met AI. |
+| Product | Wat je ermee kunt | Begin hier |
+|---|---|---|
+| **[Werkplaats](https://github.com/erwinblom/gereedschapskist)** | Je complete lokale werkomgeving voor projecten, documenten, notities en praktische tools. | [Direct gebruiken](https://erwinblom.github.io/gereedschapskist/) |
+| **[Schrijftafel](https://github.com/erwinblom/schrijftafel)** | Lokaal schrijven en je Markdown-teksten beheren, met een opgemaakte editor. | [Download](https://github.com/erwinblom/schrijftafel/releases/latest/download/schrijftafel.zip) |
+| **[Tekstploeg](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg)** | Negen AI-skills voor onderzoeken, schrijven en redigeren. | [Uitleg en gebruik](https://github.com/erwinblom/open-ai-skills-nl/blob/main/skills/tekstploeg/README.md) |
+| **[Innovatieploeg](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/innovatieploeg)** | Vijf AI-skills om ideeën uit te werken, aannames te testen en bewijs te wegen. | [Uitleg en gebruik](https://github.com/erwinblom/open-ai-skills-nl/blob/main/skills/innovatieploeg/README.md) |
 
-## FMT / OPEN-SOURCE AI-SKILLS
-
-**De Tekstploeg** bestaat uit negen skills voor het hele schrijfproces: Hoofdredacteur, Uitvrager, Onderzoeker, Schrijver, Cliché-verwijderaar, Factchecker, Schrijfwijzer, Structuurlezer en Tegenlezer.
-
-**De Innovatieploeg** helpt organisaties van kans naar bewijs met vijf skills: Kansverkenner, Aannamejager, Klantverkenner, Eerste-versiebouwer en Bewijsweger.
-
-[Bekijk alle veertien skills, installatie-instructies en voorbeelden](https://github.com/erwinblom/open-ai-skills-nl)
-
-## FMT / MARKDOWN WERKBANK
-
-[Markdown Werkbank](https://github.com/erwinblom/markdown-werkbank-offline) is een openbare, lokale browserwerkplek voor het lezen, zoeken en bewerken van Markdown-bestanden. Je kiest tussen visueel bewerken en Markdown-brontekst. Zonder account, server of AI-koppeling.
-
-De Werkbank bouwt voort op de **Markdown Browser van [Joost Plattel](https://github.com/jplattel)**. Dank aan Joost voor de oorspronkelijke basis en zijn toestemming om deze doorontwikkeling te delen. Bekijk [zijn oorspronkelijke browser](https://files.jplattel.nl/2026/03/X0dnV6.html) en [zijn toelichting: A file is the app](https://jplattel.nl/post/2026-03-10-a-file-is-the-app/).
-
-[Download de Werkbank](https://github.com/erwinblom/markdown-werkbank-offline/releases/latest/download/markdown-werkbank-offline.zip) · [Broncode en handleiding](https://github.com/erwinblom/markdown-werkbank-offline)
+Werkplaats en Schrijftafel werken met je eigen bestanden. Tekstploeg en Innovatieploeg gebruik je in een AI-omgeving die skills ondersteunt. Alle vier zijn open source.
 
 ## FMT / NIEUWSBRIEVEN
 
