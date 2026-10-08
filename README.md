@@ -8,7 +8,7 @@ Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken,
 
 | Product | Wat je ermee kunt | Begin hier |
 |---|---|---|
-| **[Werkplaats](https://github.com/erwinblom/gereedschapskist)** | Je complete lokale werkomgeving voor projecten, documenten, notities en praktische tools. | [Direct gebruiken](https://erwinblom.github.io/gereedschapskist/) |
+| **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je complete lokale werkomgeving voor projecten, documenten, notities en praktische tools. | [Direct gebruiken](https://erwinblom.github.io/werkplaats/) |
 | **[Schrijftafel](https://github.com/erwinblom/schrijftafel)** | Lokaal schrijven en je Markdown-teksten beheren, met een opgemaakte editor. | [Download](https://github.com/erwinblom/schrijftafel/releases/latest/download/schrijftafel.zip) |
 | **[Tekstploeg](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg)** | Negen AI-skills voor onderzoeken, schrijven en redigeren. | [Uitleg en gebruik](https://github.com/erwinblom/open-ai-skills-nl/blob/main/skills/tekstploeg/README.md) |
 | **[Innovatieploeg](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/innovatieploeg)** | Vijf AI-skills om ideeën uit te werken, aannames te testen en bewijs te wegen. | [Uitleg en gebruik](https://github.com/erwinblom/open-ai-skills-nl/blob/main/skills/innovatieploeg/README.md) |
