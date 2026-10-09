@@ -1,8 +1,6 @@
 ![Erwin Blom banner](images/erwin-blom-banner-no-person.png)
 
-Onder de naam **Fast Moving Targets** help ik zelfstandigen, makers en kleine teams AI praktisch te gebruiken zonder zichzelf kwijt te raken.
-
-Ik bouw tools, workflows en publicatie-omgevingen die helpen om beter te denken, onderzoeken, schrijven, kiezen en publiceren.
+Erwin Blom is onderzoeker, maker, bouwer en aanjager. Hij onderzoekt wat er speelt, maakt wat bruikbaar is en brengt mensen in beweging. Hij bouwt apps, tools, platforms en communities. Via nieuwsbrieven, boeken en cursussen helpt hij mensen om zelf aan de slag te gaan. Hij is momenteel vooral gefascineerd door de mogelijkheden en onmogelijkheden van AI. 
 
 ## Vier producten
 
