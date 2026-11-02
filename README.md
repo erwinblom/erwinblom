@@ -33,7 +33,7 @@ Werkplaats en Schrijftafel werken met je eigen bestanden. Tekstploeg en Innovati
 
 ## FMT / NIEUWSBRIEF
 
-- [FMT Handpicked](https://handpicked.fastmovingtargets.nl) — media, communicatie en innovatie.
+- [FMT Handpicked](https://handpicked.fastmovingtargets.nl) — media, technologie en innovatie.
 
 
 ## FMT / OVER MIJ
