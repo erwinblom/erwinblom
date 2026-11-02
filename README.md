@@ -21,6 +21,23 @@ Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met
 
 Screenshot Editor, Video Editor en Kladblok zijn voor macOS. De bronuitgaven bouw of installeer je zelf; de handleidingen helpen je op weg.
 
+## Zo pas je deze tools aan met AI
+
+Begin met één kleine wens: grotere letters, een andere kleur of een extra knop. Je hoeft daarvoor geen programmeur te zijn.
+
+1. Download het volledige bronpakket bij de tool. Pak het uit en maak een kopie om in te werken.
+2. Open die kopie in Codex, Claude Code of een andere AI-omgeving die lokale bestanden kan aanpassen. In een gewone chat voeg je het bronpakket toe; die chat kan niet vanzelf je computerbestanden wijzigen.
+3. Beschrijf één wijziging, wat moet blijven werken en of je Mac, Windows of Linux gebruikt.
+4. Laat de AI helpen starten. Controleer je wijziging én iets maken, bewaren, sluiten en opnieuw openen.
+
+Kopieer bijvoorbeeld deze opdracht:
+
+> Ik ben geen programmeur en gebruik [Mac, Windows of Linux]. Lees de handleiding en de code van deze tool. Mijn eerste wens is: [één concrete wijziging]. Werk in een kopie. Behoud bestaande functies, mijn gegevens en licenties. Pas de bestanden aan als je dat kunt; lever anders het complete gewijzigde project als download. Help me starten en controleer bewaren en opnieuw openen. Vertel wat je echt hebt getest. Publiceer of verstuur niets.
+
+Werkt de download niet? Vraag bij een kleine wijziging om de exacte bestandsnaam en welke tekst je moet zoeken en vervangen. Deel geen wachtwoorden, sleutels of privébestanden. Je gekozen AI-omgeving kan betaald zijn.
+
+Bij iedere tool staan passende voorbeelden en startstappen.
+
 ## FMT / SCHRIJVEN EN SKILLS
 
 | Product | Wat je ermee kunt |
