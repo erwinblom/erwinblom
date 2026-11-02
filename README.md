@@ -17,9 +17,25 @@ Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met
 | **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je lokale werkomgeving voor projecten, documenten, notities en praktische tools. |
 | **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. |
 | **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** | Interviews knippen, ordenen, ondertitelen en als video exporteren. |
-| **[Kladblok](https://github.com/erwinblom/kladblok)** | Snel iets schrijven of plakken vanuit de Mac-menubalk. Je klad blijft lokaal bewaard en kan als tekstbestand worden opgeslagen. |
+| **[Kladblok](https://github.com/erwinblom/kladblok)** | Snel schrijven of plakken in je browser. Je klad blijft lokaal bewaard; download het als tekst of Markdown. |
 
-Screenshot Editor, Video Editor en Kladblok zijn voor macOS. De bronuitgaven bouw of installeer je zelf; de handleidingen helpen je op weg.
+Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows en Linux. Kladblok en de basis van Screenshot Editor open je rechtstreeks in je browser. Video Editor gebruikt een lokale server en vraagt installatie van enkele hulpmiddelen. Bij iedere tool staan de startstappen, downloads en geteste platformen.
+
+### Bekijk de tools
+
+**[Kladblok](https://github.com/erwinblom/kladblok)** — één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
+
+![FMT Kladblok](https://raw.githubusercontent.com/erwinblom/kladblok/main/docs/kladblok.png)
+
+**[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** — maak een screenshot of tekstkaart, kies je opmaak en bewaar het beeld als PNG.
+
+![FMT Screenshot Editor](https://raw.githubusercontent.com/erwinblom/screenshot-editor/main/docs/screenshot-editor.png)
+
+**[Video Editor](https://github.com/erwinblom/fmt-video-editor)** — importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video en thumbnail.
+
+![FMT Video Editor](https://raw.githubusercontent.com/erwinblom/fmt-video-editor/main/docs/images/fmt-video-editor.png)
+
+*Video Editor toont een praktijkvoorbeeld uit mijn eigen editor; het interview wordt niet meegeleverd. De platformuitgave is een proefversie. Bij elke tool staan de precieze testresultaten en beperkingen.*
 
 ## Zo pas je deze tools aan met AI
 
