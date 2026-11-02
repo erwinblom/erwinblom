@@ -31,11 +31,10 @@ Screenshot Editor, Video Editor en Kladblok zijn voor macOS. De bronuitgaven bou
 
 Werkplaats en Schrijftafel werken met je eigen bestanden. Tekstploeg en Innovatieploeg gebruik je in een AI-omgeving die skills ondersteunt. De gekoppelde repositories zijn open source.
 
-## FMT / NIEUWSBRIEVEN
+## FMT / NIEUWSBRIEF
 
-- [FMT Handpicked](https://fmthandpicked.substack.com) — media, communicatie en innovatie.
-- [FMT Handpicked AI](https://fmthandpickedai.substack.com) — wat er verandert door AI en wat je ermee kunt.
-- [Vibecoders Unite](https://vibecodersunite.substack.com) — zelf apps, sites en tools bouwen zonder technische kennis.
+- [FMT Handpicked](https://handpicked.fastmovingtargets.nl) — media, communicatie en innovatie.
+
 
 ## FMT / OVER MIJ
 
