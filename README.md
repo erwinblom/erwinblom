@@ -15,9 +15,9 @@ Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met
 | App | Wat je ermee kunt |
 |---|---|
 | **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je lokale werkomgeving voor projecten, documenten, notities en praktische tools. |
-| **Screenshot Editor** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. Openbare publicatie in voorbereiding. |
+| **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. |
 | **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** | Interviews knippen, ordenen, ondertitelen en als video exporteren. |
-| **Kladblok** | Snel iets schrijven of plakken vanuit de Mac-menubalk. Je klad blijft lokaal bewaard en kan als tekstbestand worden opgeslagen. Openbare publicatie in voorbereiding. |
+| **[Kladblok](https://github.com/erwinblom/kladblok)** | Snel iets schrijven of plakken vanuit de Mac-menubalk. Je klad blijft lokaal bewaard en kan als tekstbestand worden opgeslagen. |
 
 Screenshot Editor, Video Editor en Kladblok zijn voor macOS. De bronuitgaven bouw of installeer je zelf; de handleidingen helpen je op weg.
 
