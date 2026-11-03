@@ -14,7 +14,8 @@ Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met
 
 | App | Wat je ermee kunt |
 |---|---|
-| **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** | Documenten omzetten naar Markdown, persoonsgegevens afschermen, metadata controleren, documenten samenvoegen en versies vergelijken. |\n| **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je lokale werkomgeving voor projecten, documenten, notities en praktische tools. |
+| **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** | Documenten omzetten naar Markdown, persoonsgegevens afschermen, metadata controleren, documenten samenvoegen en versies vergelijken. |
+| **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je lokale werkomgeving voor projecten, documenten, notities en praktische tools. |
 | **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. |
 | **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** | Interviews knippen, ordenen, ondertitelen en als video exporteren. |
 | **[Kladblok](https://github.com/erwinblom/kladblok)** | Snel schrijven of plakken in je browser. Je klad blijft lokaal bewaard; download het als tekst of Markdown. |
@@ -22,6 +23,11 @@ Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met
 Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows en Linux. Kladblok en de basis van Screenshot Editor open je rechtstreeks in je browser. Video Editor gebruikt een lokale server en vraagt installatie van enkele hulpmiddelen. Bij iedere tool staan de startstappen, downloads en geteste platformen.
 
 ### Bekijk de tools
+
+**[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** — jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
+
+![Tools voor Teksten](https://raw.githubusercontent.com/erwinblom/tools-voor-teksten/main/docs/tools-voor-teksten.png)
+
 
 **[Kladblok](https://github.com/erwinblom/kladblok)** — één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
 
