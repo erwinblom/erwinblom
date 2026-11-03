@@ -12,33 +12,33 @@ Gebruik wat je kunt gebruiken, bouw erop voort en maak het passend bij jouw werk
 
 Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met of zonder AI aanpassen aan je eigen werk.
 
-| App | Wat je ermee kunt |
-|---|---|
-| **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je lokale werkomgeving voor projecten, documenten, notities en praktische tools. |
-| **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** | Documenten omzetten naar Markdown, persoonsgegevens afschermen, metadata controleren, documenten samenvoegen en versies vergelijken. |
-| **[Kladblok](https://github.com/erwinblom/kladblok)** | Snel schrijven of plakken in je browser. Je klad blijft lokaal bewaard; download het als tekst of Markdown. |
-| **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** | Interviews knippen, ordenen, ondertitelen en als video exporteren. |
-| **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. |
+| Icoon | App | Wat je ermee kunt |
+|---|---|---|
+| <img src="images/tool-icons/werkplaats.png" width="48" height="48" alt="Werkplaats"> | **[Werkplaats](https://github.com/erwinblom/werkplaats)** | Je lokale werkomgeving voor projecten, documenten, notities en praktische tools. |
+| <img src="images/tool-icons/tools-voor-teksten.png" width="48" height="48" alt="Tools voor Teksten"> | **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** | Documenten omzetten naar Markdown, persoonsgegevens afschermen, metadata controleren, documenten samenvoegen en versies vergelijken. |
+| <img src="images/tool-icons/kladblok.png" width="48" height="48" alt="Kladblok"> | **[Kladblok](https://github.com/erwinblom/kladblok)** | Snel schrijven of plakken in je browser. Je klad blijft lokaal bewaard; download het als tekst of Markdown. |
+| <img src="images/tool-icons/video.png" width="48" height="48" alt="Video Editor"> | **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** | Interviews knippen, ordenen, ondertitelen en als video exporteren. |
+| <img src="images/tool-icons/screenshot.png" width="48" height="48" alt="Screenshot Editor"> | **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. |
 
 Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows en Linux. Kladblok en de basis van Screenshot Editor open je rechtstreeks in je browser. Video Editor gebruikt een lokale server en vraagt installatie van enkele hulpmiddelen. Bij iedere tool staan de startstappen, downloads en geteste platformen.
 
 ### Bekijk de tools
 
-**[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** — jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
+<img src="images/tool-icons/tools-voor-teksten.png" width="64" height="64" alt=""> **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** — jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
 
 ![Tools voor Teksten](https://raw.githubusercontent.com/erwinblom/tools-voor-teksten/main/docs/tools-voor-teksten.png)
 
-**[Kladblok](https://github.com/erwinblom/kladblok)** — één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
+<img src="images/tool-icons/kladblok.png" width="64" height="64" alt=""> **[Kladblok](https://github.com/erwinblom/kladblok)** — één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
 
 ![FMT Kladblok](https://raw.githubusercontent.com/erwinblom/kladblok/main/docs/kladblok.png)
 
-**[Video Editor](https://github.com/erwinblom/fmt-video-editor)** — importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video en thumbnail.
+<img src="images/tool-icons/video.png" width="64" height="64" alt=""> **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** — importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video en thumbnail.
 
 ![FMT Video Editor](https://raw.githubusercontent.com/erwinblom/fmt-video-editor/main/docs/images/fmt-video-editor.png)
 
 *Video Editor toont een praktijkvoorbeeld uit mijn eigen editor; het interview wordt niet meegeleverd. De platformuitgave is een proefversie. Bij elke tool staan de precieze testresultaten en beperkingen.*
 
-**[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** — maak een screenshot of tekstkaart, kies je opmaak en bewaar het beeld als PNG.
+<img src="images/tool-icons/screenshot.png" width="64" height="64" alt=""> **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** — maak een screenshot of tekstkaart, kies je opmaak en bewaar het beeld als PNG.
 
 ![FMT Screenshot Editor](https://raw.githubusercontent.com/erwinblom/screenshot-editor/main/docs/screenshot-editor.png)
 
