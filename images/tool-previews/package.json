@@ -1,0 +1,1 @@
+{"name":"fmt-tool-previews","private":true,"version":"1.0.0","description":"Statische FMT-ontwerpvoorbeelden; geen werkende apps","scripts":{"render":"python3 generate.py && node render.cjs"},"dependencies":{"sharp":"0.35.5"}}

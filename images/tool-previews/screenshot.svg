@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Screenshot Editor — FMT ontwerpvoorbeeld</title>
+<rect x="0" y="0" width="1600" height="1000" fill="#ffffff"/>
+<rect x="0" y="0" width="1600" height="6" fill="#c51d17"/>
+<svg x="40" y="28" width="76" height="76" viewBox="0 0 1024 1024"><rect x="32" y="32" width="960" height="960" rx="180" fill="#FFFFFF" /><rect x="708.0" y="128.0" width="40.0" height="88.0" rx="0" fill="#0A0A0A" /><rect x="708.0" y="296.0" width="40.0" height="88.0" rx="0" fill="#0A0A0A" /><rect x="600.0" y="236.0" width="88.0" height="40.0" rx="0" fill="#0A0A0A" /><rect x="768.0" y="236.0" width="88.0" height="40.0" rx="0" fill="#0A0A0A" /><circle cx="728.0" cy="256.0" r="23.200000000000003" fill="#E10600" /><rect x="192" y="432" width="132" height="44" fill="#0A0A0A" /><rect x="192" y="432" width="44" height="116" fill="#0A0A0A" /><rect x="700" y="432" width="132" height="44" fill="#0A0A0A" /><rect x="788" y="432" width="44" height="116" fill="#0A0A0A" /><rect x="192" y="772" width="132" height="44" fill="#0A0A0A" /><rect x="192" y="700" width="44" height="116" fill="#0A0A0A" /><rect x="700" y="772" width="132" height="44" fill="#0A0A0A" /><rect x="788" y="700" width="44" height="116" fill="#0A0A0A" /><polygon points="346,730 368,641 632,496 700,565 436,730" fill="#0A0A0A" /><polygon points="404,662 414,680 638,557 628,545" fill="#FFFFFF" /></svg>
+<text x="132" y="63" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111" text-anchor="start">SCREENSHOT EDITOR</text>
+<text x="133" y="87" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#595959" text-anchor="start">FAST MOVING TARGETS</text>
+<text x="1552" y="65" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#595959" text-anchor="end">ONTWERPVOORBEELD</text>
+<path d="M40 118H1560" stroke="#111111" stroke-width="2"/>
+<text x="48" y="158" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#595959" text-anchor="start">Een beeld. Jouw woorden. Klaar om te delen.</text>
+<path d="M40 940H1560" stroke="#111111" stroke-width="1"/>
+<text x="48" y="974" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#595959" text-anchor="start">FMT / GEREEDSCHAP OM ZELF VERDER TE BOUWEN</text>
+<text x="1552" y="974" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#595959" text-anchor="end">Visuele richting · De bestaande tool is nog niet aangepast</text>
+<rect x="48" y="198" width="350" height="696" fill="#f7f7f7"/>
+<text x="72" y="237" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111111" text-anchor="start">1. KIES JE INHOUD</text>
+<rect x="72" y="259" width="302" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="223.0" y="288" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Laad afbeelding</text>
+<rect x="72" y="320" width="302" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="223.0" y="349" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Maak screenshot</text>
+<text x="72" y="414" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111111" text-anchor="start">2. MAAK HET PASSEND</text>
+<text x="72" y="450" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#595959" text-anchor="start">Formaat</text>
+<rect x="72" y="466" width="302" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="223.0" y="495" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Breed · 1920 × 1080  ⌄</text>
+<text x="72" y="549" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#595959" text-anchor="start">Achtergrond</text>
+<rect x="72" y="565" width="302" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="223.0" y="594" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Rood  ⌄</text>
+<text x="72" y="653" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#595959" text-anchor="start">Uitsnede / zoom</text>
+<path d="M76 679H368" stroke="#d2d2d2" stroke-width="5"/>
+<rect x="150" y="671" width="15" height="16" fill="#c51d17"/>
+<text x="72" y="748" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111111" text-anchor="start">3. BEWAAR JE BEELD</text>
+<rect x="72" y="774" width="144" height="46" fill="#c51d17" stroke="#c51d17" stroke-width="1"/>
+<text x="144.0" y="803" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="middle">Bewaar PNG</text>
+<rect x="232" y="774" width="142" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="303.0" y="803" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Kopieer beeld</text>
+<text x="442" y="229" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="start">JOUW BEELD</text>
+<text x="1552" y="229" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#595959" text-anchor="end">1920 × 1080</text>
+<rect x="1394" y="132" width="158" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="1473.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Eigen stijl</text>
+<rect x="442" y="259" width="1110" height="624" fill="#e5e5e5"/>
+<rect x="474" y="291" width="1046" height="560" fill="#c51d17"/>
+<text x="506" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">STUDIO VOORBEELD</text>
+<rect x="560" y="378" width="874" height="360" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+<rect x="584" y="402" width="826" height="62" fill="#111111"/>
+<text x="610" y="442" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#ffffff" text-anchor="start">Een idee dat je wilt bewaren</text>
+<rect x="584" y="488" width="236" height="218" fill="#c51d17"/>
+<text x="854" y="536" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#111111" text-anchor="start">Maak het zelf.</text>
+<text x="854" y="583" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#111111" text-anchor="start">Begin klein. Probeer.</text>
+<text x="854" y="622" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#111111" text-anchor="start">Pas aan.</text>
+<text x="506" y="803" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#ffffff" text-anchor="start">Een klein idee, helder in beeld.</text>
+</svg>

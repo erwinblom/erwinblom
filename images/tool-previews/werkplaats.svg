@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Werkplaats — FMT ontwerpvoorbeeld</title>
+<rect x="0" y="0" width="1600" height="1000" fill="#ffffff"/>
+<rect x="0" y="0" width="1600" height="6" fill="#c51d17"/>
+<svg x="40" y="28" width="76" height="76" viewBox="0 0 1024 1024"><rect x="32" y="32" width="960" height="960" rx="180" fill="#FFFFFF" /><rect x="708.0" y="128.0" width="40.0" height="88.0" rx="0" fill="#0A0A0A" /><rect x="708.0" y="296.0" width="40.0" height="88.0" rx="0" fill="#0A0A0A" /><rect x="600.0" y="236.0" width="88.0" height="40.0" rx="0" fill="#0A0A0A" /><rect x="768.0" y="236.0" width="88.0" height="40.0" rx="0" fill="#0A0A0A" /><circle cx="728.0" cy="256.0" r="23.200000000000003" fill="#E10600" /><rect x="200" y="440" width="164" height="148" fill="#0A0A0A" /><rect x="430" y="440" width="164" height="148" fill="#0A0A0A" /><rect x="660" y="440" width="164" height="148" fill="#0A0A0A" /><rect x="200" y="660" width="164" height="148" fill="#0A0A0A" /><rect x="430" y="660" width="164" height="148" fill="#0A0A0A" /><rect x="660" y="660" width="164" height="148" fill="#0A0A0A" /></svg>
+<text x="132" y="63" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111" text-anchor="start">WERKPLAATS</text>
+<text x="133" y="87" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#595959" text-anchor="start">FAST MOVING TARGETS</text>
+<text x="1552" y="65" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#595959" text-anchor="end">ONTWERPVOORBEELD</text>
+<path d="M40 118H1560" stroke="#111111" stroke-width="2"/>
+<text x="48" y="158" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#595959" text-anchor="start">Je eigen plek voor ideeën, teksten en projecten.</text>
+<path d="M40 940H1560" stroke="#111111" stroke-width="1"/>
+<text x="48" y="974" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#595959" text-anchor="start">FMT / GEREEDSCHAP OM ZELF VERDER TE BOUWEN</text>
+<text x="1552" y="974" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#595959" text-anchor="end">Visuele richting · De bestaande tool is nog niet aangepast</text>
+<text x="48" y="238" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#111111" text-anchor="start">JE WERK.</text>
+<text x="48" y="302" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#111111" text-anchor="start">JE GEREEDSCHAP.</text>
+<text x="1010" y="235" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#111111" text-anchor="start">Verzamelen, maken en terugvinden.</text>
+<text x="1010" y="272" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#595959" text-anchor="start">Je bestanden blijven onder jouw controle.</text>
+<rect x="48" y="334" width="184" height="46" fill="#c51d17" stroke="#c51d17" stroke-width="1"/>
+<text x="140.0" y="363" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="middle">Nieuw beginnen</text>
+<rect x="248" y="334" width="184" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="340.0" y="363" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Verder werken</text>
+<path d="M48 420H1552" stroke="#111111" stroke-width="1"/>
+<text x="48" y="454" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#595959" text-anchor="start">INFORMATIE</text>
+<rect x="48" y="474" width="480" height="178" fill="#111111"/>
+<text x="72" y="523" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#aaaaaa" text-anchor="start">01</text>
+<text x="72" y="566" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="start">VERZAMELEN</text>
+<text x="72" y="603" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#ffffff" text-anchor="start">Bewaar links, citaten en notities.</text>
+<text x="500" y="627" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#ffffff" text-anchor="end">→</text>
+<rect x="560" y="474" width="480" height="178" fill="#111111"/>
+<text x="584" y="523" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#aaaaaa" text-anchor="start">02</text>
+<text x="584" y="566" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="start">SCHRIJVEN</text>
+<text x="584" y="603" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#ffffff" text-anchor="start">Schrijf en lees je documenten.</text>
+<text x="1012" y="627" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#ffffff" text-anchor="end">→</text>
+<rect x="1072" y="474" width="480" height="178" fill="#111111"/>
+<text x="1096" y="523" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#aaaaaa" text-anchor="start">03</text>
+<text x="1096" y="566" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="start">ZOEKEN</text>
+<text x="1096" y="603" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#ffffff" text-anchor="start">Vind je bronnen en werk terug.</text>
+<text x="1524" y="627" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#ffffff" text-anchor="end">→</text>
+<rect x="48" y="698" width="480" height="178" fill="#111111"/>
+<text x="72" y="747" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#aaaaaa" text-anchor="start">04</text>
+<text x="72" y="790" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="start">PROJECTEN</text>
+<text x="72" y="827" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#ffffff" text-anchor="start">Beheer je ideeën en projecten.</text>
+<text x="500" y="851" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#ffffff" text-anchor="end">→</text>
+<rect x="560" y="698" width="480" height="178" fill="#111111"/>
+<text x="584" y="747" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#aaaaaa" text-anchor="start">05</text>
+<text x="584" y="790" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="start">DOEN</text>
+<text x="584" y="827" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#ffffff" text-anchor="start">Houd taken en deadlines bij.</text>
+<text x="1012" y="851" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#ffffff" text-anchor="end">→</text>
+<rect x="1072" y="698" width="480" height="178" fill="#111111"/>
+<text x="1096" y="747" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#aaaaaa" text-anchor="start">06</text>
+<text x="1096" y="790" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="start">CONTACTEN</text>
+<text x="1096" y="827" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#ffffff" text-anchor="start">Bewaar contacten en gesprekken.</text>
+<text x="1524" y="851" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#ffffff" text-anchor="end">→</text>
+<text x="48" y="685" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#595959" text-anchor="start">ORGANISATIE</text>
+</svg>

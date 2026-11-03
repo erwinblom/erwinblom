@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Tools voor Teksten — FMT ontwerpvoorbeeld</title>
+<rect x="0" y="0" width="1600" height="1000" fill="#ffffff"/>
+<rect x="0" y="0" width="1600" height="6" fill="#c51d17"/>
+<svg x="40" y="28" width="76" height="76" viewBox="0 0 1024 1024"><rect x="32" y="32" width="960" height="960" rx="180" fill="#FFFFFF" /><rect x="708.0" y="128.0" width="40.0" height="88.0" rx="0" fill="#0A0A0A" /><rect x="708.0" y="296.0" width="40.0" height="88.0" rx="0" fill="#0A0A0A" /><rect x="600.0" y="236.0" width="88.0" height="40.0" rx="0" fill="#0A0A0A" /><rect x="768.0" y="236.0" width="88.0" height="40.0" rx="0" fill="#0A0A0A" /><circle cx="728.0" cy="256.0" r="23.200000000000003" fill="#E10600" /><polygon points="192,432 680,432 832,584 832,816 192,816" fill="#0A0A0A" /><polygon points="236,476 660,476 660,604 788,604 788,772 236,772" fill="#FFFFFF" /><polygon points="704,492 772,560 704,560" fill="#FFFFFF" /><rect x="288" y="636" width="448" height="36" fill="#0A0A0A" /><rect x="288" y="704" width="320" height="36" fill="#0A0A0A" /></svg>
+<text x="132" y="63" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111" text-anchor="start">TOOLS VOOR TEKSTEN</text>
+<text x="133" y="87" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#595959" text-anchor="start">FAST MOVING TARGETS</text>
+<text x="1552" y="65" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#595959" text-anchor="end">ONTWERPVOORBEELD</text>
+<path d="M40 118H1560" stroke="#111111" stroke-width="2"/>
+<text x="48" y="158" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#595959" text-anchor="start">Jouw informatie. In bruikbare bestanden. Onder jouw controle.</text>
+<path d="M40 940H1560" stroke="#111111" stroke-width="1"/>
+<text x="48" y="974" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#595959" text-anchor="start">FMT / GEREEDSCHAP OM ZELF VERDER TE BOUWEN</text>
+<text x="1552" y="974" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#595959" text-anchor="end">Visuele richting · De bestaande tool is nog niet aangepast</text>
+<rect x="48" y="198" width="294" height="696" fill="#f7f7f7"/>
+<text x="68" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="start">JOUW BESTANDEN</text>
+<text x="68" y="274" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="start">Voorbeeldbestanden</text>
+<text x="68" y="303" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#595959" text-anchor="start">5 van 5 geselecteerd</text>
+<rect x="68" y="325" width="250" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="193.0" y="354" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Kies een map</text>
+<rect x="68" y="408" width="16" height="16" fill="#c51d17"/>
+<text x="70" y="422" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">✓</text>
+<text x="98" y="425" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#111111" text-anchor="start">Interview.docx</text>
+<text x="98" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#595959" text-anchor="start">38 kB</text>
+<rect x="68" y="481" width="16" height="16" fill="#c51d17"/>
+<text x="70" y="495" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">✓</text>
+<text x="98" y="498" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#111111" text-anchor="start">Beleidsnotitie.pdf</text>
+<text x="98" y="523" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#595959" text-anchor="start">66 kB</text>
+<rect x="68" y="554" width="16" height="16" fill="#c51d17"/>
+<text x="70" y="568" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">✓</text>
+<text x="98" y="571" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#111111" text-anchor="start">Informatiepagina.html</text>
+<text x="98" y="596" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#595959" text-anchor="start">5 kB</text>
+<rect x="68" y="627" width="16" height="16" fill="#c51d17"/>
+<text x="70" y="641" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">✓</text>
+<text x="98" y="644" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#111111" text-anchor="start">Voorstel.txt</text>
+<text x="98" y="669" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#595959" text-anchor="start">4 kB</text>
+<rect x="68" y="700" width="16" height="16" fill="#c51d17"/>
+<text x="70" y="714" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">✓</text>
+<text x="98" y="717" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#111111" text-anchor="start">Voorstel-herzien.txt</text>
+<text x="98" y="742" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#595959" text-anchor="start">5 kB</text>
+<text x="382" y="234" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111" text-anchor="start">WAT WIL JE DOEN?</text>
+<rect x="382" y="264" width="1170" height="105" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="408" y="306" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111111" text-anchor="start">Sleep een map of bestand hierheen</text>
+<text x="408" y="338" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#595959" text-anchor="start">Kies daarna wat je ermee wilt doen.</text>
+<rect x="1324" y="292" width="204" height="46" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<text x="1426.0" y="321" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#111111" text-anchor="middle">Kies map of bestand</text>
+<rect x="382" y="401" width="1170" height="127" fill="#ffffff" stroke="#111111" stroke-width="1"/>
+<rect x="382" y="401" width="6" height="127" fill="#c51d17"/>
+<text x="408" y="445" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111111" text-anchor="start">Naar Markdown</text>
+<text x="408" y="480" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#111111" text-anchor="start">Van Word, PDF, HTML of tekst naar een .md-bestand.</text>
+<text x="408" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#595959" text-anchor="start">DOCX  /  PDF  /  HTML  /  TXT  →  MD</text>
+<text x="1522" y="471" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400" fill="#111111" text-anchor="end">→</text>
+<rect x="382" y="552" width="573" height="124" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="406" y="596" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111111" text-anchor="start">Persoonsgegevens afschermen</text>
+<text x="406" y="632" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#595959" text-anchor="start">Herken persoonsgegevens. Controleer wat je afschermt.</text>
+<text x="924" y="658" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#111111" text-anchor="end">→</text>
+<rect x="979" y="552" width="573" height="124" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="1003" y="596" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111111" text-anchor="start">Metadata controleren</text>
+<text x="1003" y="632" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#595959" text-anchor="start">Bekijk verborgen gegevens en maak een schone tekstkopie.</text>
+<text x="1521" y="658" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#111111" text-anchor="end">→</text>
+<rect x="382" y="700" width="573" height="124" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="406" y="744" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111111" text-anchor="start">Documenten samenvoegen</text>
+<text x="406" y="780" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#595959" text-anchor="start">Maak één Markdown-bestand van meerdere documenten.</text>
+<text x="924" y="806" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#111111" text-anchor="end">→</text>
+<rect x="979" y="700" width="573" height="124" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="1003" y="744" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111111" text-anchor="start">Versies vergelijken</text>
+<text x="1003" y="780" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#595959" text-anchor="start">Bekijk wat er is veranderd.</text>
+<text x="1521" y="806" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#111111" text-anchor="end">→</text>
+<text x="382" y="886" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#595959" text-anchor="start">JOUW BESTANDEN BLIJVEN VAN JOU.</text>
+</svg>
