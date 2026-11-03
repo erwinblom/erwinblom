@@ -24,6 +24,10 @@ Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows e
 
 ### Bekijk de tools
 
+<img src="images/tool-icons/werkplaats.png" width="64" height="64" alt=""> **[Werkplaats](https://github.com/erwinblom/werkplaats)** — je eigen werkplek voor ideeën, teksten en projecten. Verzamel bronnen, schrijf documenten en houd overzicht over je werk. [Open Werkplaats](https://erwinblom.github.io/werkplaats/) of [download voor offline gebruik](https://github.com/erwinblom/werkplaats/releases/latest/download/Werkplaats.zip).
+
+![Werkplaats — je werk en je gereedschap](https://raw.githubusercontent.com/erwinblom/werkplaats/main/images/werkplaats-home.jpg)
+
 <img src="images/tool-icons/tools-voor-teksten.png" width="64" height="64" alt=""> **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** — jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
 
 ![Tools voor Teksten](https://raw.githubusercontent.com/erwinblom/tools-voor-teksten/main/docs/tools-voor-teksten.png)
