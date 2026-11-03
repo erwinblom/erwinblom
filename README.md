@@ -24,31 +24,31 @@ Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows e
 
 ### Bekijk de tools
 
-De vijf beelden hieronder zijn ontwerpvoorbeelden van één gezamenlijke FMT-stijl: rood, zwart, wit en neutraal grijs. De huidige tools kunnen er nog anders uitzien; de aanpassing van de interfaces volgt later.
+Vijf tools, één FMT-familie: rood, zwart, wit en neutraal grijs. De beelden hieronder zijn echte screenshots van de vernieuwde interfaces met fictieve voorbeeldinhoud. De openbare downloadpakketten worden apart bijgewerkt.
 
 ## <a href="https://github.com/erwinblom/werkplaats"><img src="images/tool-icons/werkplaats.png" width="48" height="48" alt=""></a> [Werkplaats](https://github.com/erwinblom/werkplaats)
 
 je eigen werkplek voor ideeën, teksten en projecten. Verzamel bronnen, schrijf documenten en houd overzicht over je werk. [Open Werkplaats](https://erwinblom.github.io/werkplaats/) of [download voor offline gebruik](https://github.com/erwinblom/werkplaats/releases/latest/download/Werkplaats.zip).
 
-[![Ontwerpvoorbeeld Werkplaats — je werk en je gereedschap — gezamenlijke FMT-stijl](images/tool-previews/werkplaats.png)](https://github.com/erwinblom/werkplaats)
+[![Werkplaats — je werk en je gereedschap — gezamenlijke FMT-stijl](images/tool-previews/werkplaats.png)](https://github.com/erwinblom/werkplaats)
 
 ## <a href="https://github.com/erwinblom/tools-voor-teksten"><img src="images/tool-icons/tools-voor-teksten.png" width="48" height="48" alt=""></a> [Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)
 
 jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
 
-[![Ontwerpvoorbeeld Tools voor Teksten — gezamenlijke FMT-stijl](images/tool-previews/tools-voor-teksten.png)](https://github.com/erwinblom/tools-voor-teksten)
+[![Tools voor Teksten — gezamenlijke FMT-stijl](images/tool-previews/tools-voor-teksten.png)](https://github.com/erwinblom/tools-voor-teksten)
 
 ## <a href="https://github.com/erwinblom/kladblok"><img src="images/tool-icons/kladblok.png" width="48" height="48" alt=""></a> [Kladblok](https://github.com/erwinblom/kladblok)
 
 één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
 
-[![Ontwerpvoorbeeld FMT Kladblok — gezamenlijke FMT-stijl](images/tool-previews/kladblok.png)](https://github.com/erwinblom/kladblok)
+[![FMT Kladblok — gezamenlijke FMT-stijl](images/tool-previews/kladblok.png)](https://github.com/erwinblom/kladblok)
 
 ## <a href="https://github.com/erwinblom/fmt-video-editor"><img src="images/tool-icons/video.png" width="48" height="48" alt=""></a> [Video Editor](https://github.com/erwinblom/fmt-video-editor)
 
 importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video en thumbnail.
 
-[![Ontwerpvoorbeeld FMT Video Editor — gezamenlijke FMT-stijl](images/tool-previews/video.png)](https://github.com/erwinblom/fmt-video-editor)
+[![FMT Video Editor — gezamenlijke FMT-stijl](images/tool-previews/video.png)](https://github.com/erwinblom/fmt-video-editor)
 
 *De platformuitgave van Video Editor is een proefversie. Bij elke tool staan de precieze testresultaten en beperkingen.*
 
@@ -56,7 +56,7 @@ importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video
 
 maak een screenshot of tekstkaart, kies je opmaak en bewaar het beeld als PNG.
 
-[![Ontwerpvoorbeeld FMT Screenshot Editor — gezamenlijke FMT-stijl](images/tool-previews/screenshot.png)](https://github.com/erwinblom/screenshot-editor)
+[![FMT Screenshot Editor — gezamenlijke FMT-stijl](images/tool-previews/screenshot.png)](https://github.com/erwinblom/screenshot-editor)
 
 ## Zo pas je deze tools aan met AI
 
