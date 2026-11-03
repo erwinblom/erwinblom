@@ -24,25 +24,35 @@ Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows e
 
 ### Bekijk de tools
 
-<img src="images/tool-icons/werkplaats.png" width="64" height="64" alt=""> **[Werkplaats](https://github.com/erwinblom/werkplaats)** — je eigen werkplek voor ideeën, teksten en projecten. Verzamel bronnen, schrijf documenten en houd overzicht over je werk. [Open Werkplaats](https://erwinblom.github.io/werkplaats/) of [download voor offline gebruik](https://github.com/erwinblom/werkplaats/releases/latest/download/Werkplaats.zip).
+## <img src="images/tool-icons/werkplaats.png" width="48" height="48" alt=""> [Werkplaats](https://github.com/erwinblom/werkplaats)
+
+je eigen werkplek voor ideeën, teksten en projecten. Verzamel bronnen, schrijf documenten en houd overzicht over je werk. [Open Werkplaats](https://erwinblom.github.io/werkplaats/) of [download voor offline gebruik](https://github.com/erwinblom/werkplaats/releases/latest/download/Werkplaats.zip).
 
 [![Werkplaats — je werk en je gereedschap](https://raw.githubusercontent.com/erwinblom/werkplaats/main/images/werkplaats-home.jpg)](https://erwinblom.github.io/werkplaats/)
 
-<img src="images/tool-icons/tools-voor-teksten.png" width="64" height="64" alt=""> **[Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)** — jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
+## <img src="images/tool-icons/tools-voor-teksten.png" width="48" height="48" alt=""> [Tools voor Teksten](https://github.com/erwinblom/tools-voor-teksten)
+
+jouw informatie in bruikbare bestanden, onder jouw controle. [Gebruik online](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/) of [download voor Mac met Apple Silicon](https://github.com/erwinblom/tools-voor-teksten/releases/latest).
 
 [![Tools voor Teksten](https://raw.githubusercontent.com/erwinblom/tools-voor-teksten/main/docs/tools-voor-teksten.png)](https://tools-voor-teksten-fmt.erwinblom.chatgpt.site/)
 
-<img src="images/tool-icons/kladblok.png" width="64" height="64" alt=""> **[Kladblok](https://github.com/erwinblom/kladblok)** — één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
+## <img src="images/tool-icons/kladblok.png" width="48" height="48" alt=""> [Kladblok](https://github.com/erwinblom/kladblok)
+
+één plek om snel iets op te schrijven en als tekst of Markdown mee te nemen.
 
 [![FMT Kladblok](https://raw.githubusercontent.com/erwinblom/kladblok/main/docs/kladblok.png)](https://github.com/erwinblom/kladblok)
 
-<img src="images/tool-icons/video.png" width="64" height="64" alt=""> **[Video Editor](https://github.com/erwinblom/fmt-video-editor)** — importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video en thumbnail.
+## <img src="images/tool-icons/video.png" width="48" height="48" alt=""> [Video Editor](https://github.com/erwinblom/fmt-video-editor)
+
+importeer een opname, monteer fragmenten, voeg ondertitels toe en maak een video en thumbnail.
 
 [![FMT Video Editor](https://raw.githubusercontent.com/erwinblom/fmt-video-editor/main/docs/images/fmt-video-editor.png)](https://github.com/erwinblom/fmt-video-editor)
 
 *Video Editor toont een praktijkvoorbeeld uit mijn eigen editor; het interview wordt niet meegeleverd. De platformuitgave is een proefversie. Bij elke tool staan de precieze testresultaten en beperkingen.*
 
-<img src="images/tool-icons/screenshot.png" width="64" height="64" alt=""> **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** — maak een screenshot of tekstkaart, kies je opmaak en bewaar het beeld als PNG.
+## <img src="images/tool-icons/screenshot.png" width="48" height="48" alt=""> [Screenshot Editor](https://github.com/erwinblom/screenshot-editor)
+
+maak een screenshot of tekstkaart, kies je opmaak en bewaar het beeld als PNG.
 
 [![FMT Screenshot Editor](https://raw.githubusercontent.com/erwinblom/screenshot-editor/main/docs/screenshot-editor.png)](https://github.com/erwinblom/screenshot-editor)
 
