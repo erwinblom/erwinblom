@@ -10,7 +10,7 @@ Gebruik wat je kunt gebruiken, bouw erop voort en maak het passend bij jouw werk
 
 ## FMT / APPS
 
-Ik bouw wat ik zelf nodig heb. Dit zijn half-producten: ze werken zoals ze zijn, en ze zijn gemaakt om te veranderen. Gebruik ze als vertrekpunt en pas ze met of zonder AI aan je eigen werk aan.
+Ik bouw wat ik zelf nodig heb. Deze apps werken zoals ze zijn. Je kunt ze ook als vertrekpunt gebruiken en met of zonder AI aanpassen aan je eigen werk.
 
 | Icoon | App | Wat je ermee kunt |
 |---|---|---|
