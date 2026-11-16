@@ -10,7 +10,7 @@ Gebruik wat je kunt gebruiken, bouw erop voort en maak het passend bij jouw werk
 
 ## FMT / APPS
 
-Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met of zonder AI aanpassen aan je eigen werk.
+Ik bouw wat ik zelf nodig heb. Deze apps werken zoals ze zijn. Je kunt ze ook als vertrekpunt gebruiken en met of zonder AI aanpassen aan je eigen werk.
 
 | Icoon | App | Wat je ermee kunt |
 |---|---|---|
@@ -21,6 +21,8 @@ Ik bouw wat ik zelf nodig heb. Deze apps kun je gebruiken als vertrekpunt en met
 | <a href="https://github.com/erwinblom/screenshot-editor"><img src="images/tool-icons/screenshot.png" width="48" height="48" alt="Screenshot Editor"></a> | **[Screenshot Editor](https://github.com/erwinblom/screenshot-editor)** | Screenshots en tekstkaarten opmaken, voorzien van je eigen stijl en bewaren als PNG. |
 
 Screenshot Editor, Video Editor en Kladblok zijn beschikbaar voor Mac, Windows en Linux. Kladblok en de basis van Screenshot Editor open je rechtstreeks in je browser. Video Editor gebruikt een lokale server en vraagt installatie van enkele hulpmiddelen. Bij iedere tool staan de startstappen, downloads en geteste platformen.
+
+Wil je voor het eerst iets aanpassen? Begin bij Kladblok: dat is één bestand. Screenshot Editor is de volgende stap. Werkplaats breid je het makkelijkst uit met een eigen uitbreiding. Video Editor is voor gevorderden.
 
 ### Bekijk de tools
 
@@ -69,11 +71,11 @@ Begin met één kleine wens: grotere letters, een andere kleur of een extra knop
 
 Kopieer bijvoorbeeld deze opdracht:
 
-> Ik ben geen programmeur en gebruik [Mac, Windows of Linux]. Lees de handleiding en de code van deze tool. Mijn eerste wens is: [één concrete wijziging]. Werk in een kopie. Behoud bestaande functies, mijn gegevens en licenties. Pas de bestanden aan als je dat kunt; lever anders het complete gewijzigde project als download. Help me starten en controleer bewaren en opnieuw openen. Vertel wat je echt hebt getest. Publiceer of verstuur niets.
+> Ik ben geen programmeur en gebruik [Mac, Windows of Linux]. Lees eerst AGENTS.md en de handleiding van deze tool. Mijn eerste wens is: [één concrete wijziging]. Werk in een kopie. Behoud wat volgens AGENTS.md heel moet blijven, en mijn gegevens. Pas de bestanden aan als je dat kunt; lever anders het complete gewijzigde project als download. Help me starten en controleer bewaren en opnieuw openen. Vertel wat je echt hebt getest. Publiceer of verstuur niets.
 
 Werkt de download niet? Vraag bij een kleine wijziging om de exacte bestandsnaam en welke tekst je moet zoeken en vervangen. Deel geen wachtwoorden, sleutels of privébestanden. Je gekozen AI-omgeving kan betaald zijn.
 
-Bij iedere tool staan passende voorbeelden en startstappen.
+Bij iedere tool staan passende voorbeelden, ideeën om mee te beginnen en een bestand `AGENTS.md`. Daarin leest je AI wat vrij te veranderen is en wat heel moet blijven.
 
 ## FMT / SCHRIJVEN EN SKILLS
 
